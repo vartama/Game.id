@@ -1,0 +1,5 @@
+export const FETCH_GAME = 'game/getGame'
+export const FETCH_GAME_FAILED = 'game/getGameFailed'
+export const FETCH_GAME_DETAIL = 'game/getGameDetail'
+export const FETCH_GAME_DETAIL_FAILED = 'game/getGameDetailFailed'
+export const LOADING = 'action/loading'

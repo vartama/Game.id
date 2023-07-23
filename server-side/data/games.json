@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Red Dead Redemption 2",
+        "slug": "",
+        "description": "Includes Red Dead Redemption 2: Story Mode and Red Dead Online.\nWinner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, Red Dead Redemption 2 is an epic tale of honor and loyalty at the dawn of the modern age.\nAmerica, 1899. Arthur Morgan and the Van der Linde gang are outlaws on the run. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.\nRed Dead Redemption 2 also includes the shared living world of Red Dead Online – forge your own path as you battle lawmen, outlaw gangs and ferocious wild animals to build a life on the American frontier. Build a camp, ride solo or form a posse and explore everything from the snowy mountains in the North to the swamps of the South, from remote outposts to busy farms and bustling towns. Chase down bounties, hunt, fish and trade, search for exotic treasures, run your own underground Moonshine distillery, or become a Naturalist to learn the secrets of the animal kingdom and much more in a world of astounding depth and detail – includes all new features, gameplay content and additional enhancements released since launch.",
+        "price": 640000,
+        "mainImg": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_01-1920x1080-8a72c86b8fed73f57311d0d1ba456e6964f0aaa2.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 2,
+        "name": "Hogwarts Legacy",
+        "slug": "",
+        "description": "Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. Now you can take control of the action and be at the center of your own adventure in the wizarding world. Your legacy is what you make of it. Live the Unwritten.\nEXPLORE AN OPEN WORLD\nThe wizarding world awaits you. Freely roam Hogwarts, Hogsmeade, the Forbidden Forest, and the surrounding Overland area.\nBE THE WITCH OR WIZARD YOU WANT TO BE\nLearn spells, brew potions, grow plants, and tend to magical beasts along your journey. Get sorted into your house, forge relationships, and master skills to become the witch or wizard you want to be.\nEXPERIENCE A NEW WIZARDING WORLD STORY\nExperience the wizarding world in a forgotten era to uncover a hidden truth from its past. Battle against trolls, dark wizards, goblins, and more as you face a dangerous villain threatening the fate of the wizarding world.",
+        "price": 749000,
+        "mainImg": "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-01-1920x1080-abc96a86b4f0.jpg",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "id": 3,
+        "name": "Assassin's Creed Valhalla",
+        "slug": "",
+        "description": "Become Eivor, a legendary Viking raider on a quest for glory.\n\nLead epic Viking raids against Saxon troops and fortresses.\n\nRelive the visceral fighting style of the Vikings as you dual-wield powerful weapons.\n\nChallenge yourself with the most varied collection of enemies ever in Assassin's Creed.\n\nShape the growth of your character and your clan's settlement with every choice you make.\n\nExplore a Dark Age open world, from the harsh shores of Norway to the beautiful kingdoms of England.",
+        "price": 700000,
+        "mainImg": "https://cdn2.unrealengine.com/acv-101-urbanstealth-emea-3840x2160-277668968.jpg",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "id": 4,
+        "name": "Cyberpunk 2077",
+        "slug": "",
+        "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary wrapped up in a do-or-die fight for survival. Improved and featuring all-new free additional content, customize your character and playstyle as you take on jobs, build a reputation, and unlock upgrades. The relationships you forge and the choices you make will shape the story and the world around you. Legends are made here. What will yours be?\n\nCREATE YOUR OWN CYBERPUNK\nBecome a cyberpunk, an urban mercenary equipped with cybernetic enhancements and build your legend on the streets of Night City.\n\nEXPLORE THE CITY OF THE FUTURE\nNight City is packed to the brim with things to do, places to see, and people to meet. And it’s up to you where to go, when to go, and how to get there.\n\nBUILD YOUR LEGEND\nGo on daring adventures and build relationships with unforgettable characters whose fates are shaped by the choices you make.\n\nEQUIPPED WITH IMPROVEMENTS\nExperience Cyberpunk 2077 with a host of changes and improvements to gameplay and economy, the city, map usage, and more.\n\nINCLUDES FREE ADDITIONAL CONTENT\nGet your hands on a haul of free items including new guns and melee weapons, as well as extra customization options and more.",
+        "price": 640000,
+        "mainImg": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-04-02-24-22-1920x1080-e44528f4fa16.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "id": 5,
+        "name": "God of War",
+        "slug": "",
+        "description": "Enter the Norse realm\n\nHis vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.\n\nGrasp a second chance\n\nKratos is a father again. As mentor and protector to Atreus, a son determined to earn his respect, he is forced to deal with and control the rage that has long defined him while out in a very dangerous world with his son.\n\nJourney to a dark, elemental world of fearsome creatures\n\nFrom the marble and columns of ornate Olympus to the gritty forests, mountains and caves of pre-Viking Norse lore, this is a distinctly new realm with its own pantheon of creatures, monsters and gods.\n\nEngage in visceral, physical combat\n\nWith an over the shoulder camera that brings the player closer to the action than ever before, fights in God of War™ mirror the pantheon of Norse creatures Kratos will face: grand, gritty and grueling. A new main weapon and new abilities retain the defining spirit of the God of War series while presenting a vision of conflict that forges new ground in the genre.",
+        "price": 500000,
+        "mainImg": "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-10-1920x1080-b43097b1c6e6.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    }
+]

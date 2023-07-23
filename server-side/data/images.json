@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "productId":1,
+        "imgUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_01-1920x1080-8a72c86b8fed73f57311d0d1ba456e6964f0aaa2.jpg",
+        "createdAt": "11/05/19",
+        "updatedAt": "11/05/19"
+    },
+    {
+        "id": 2,
+        "productId":1,
+        "imgUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_02-1920x1080-4b6978a5abd9d179eda514bc8853c8ffcdacd690.jpg",
+        "createdAt": "11/05/19",
+        "updatedAt": "11/05/19"
+    },
+    {
+        "id": 3,
+        "productId":1,
+        "imgUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fheather%2Fhome%2FEGS_RockstarGames_RedDeadRedemption2_G1A_04-1920x1080-3e2c5e1e843eac593d1957ea22ef5f128c34b995.jpg",
+        "createdAt": "11/05/19",
+        "updatedAt": "11/05/19"
+    },
+    {
+        "id": 4,
+        "productId":2,
+        "imgUrl": "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-01-1920x1080-abc96a86b4f0.jpg",
+        "createdAt": "02/11/23",
+        "updatedAt": "02/11/23"
+    },
+    {
+        "id": 5,
+        "productId":2,
+        "imgUrl": "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-00-1920x1080-6ae741e030bb.jpg",
+        "createdAt": "02/11/23",
+        "updatedAt": "02/11/23"
+    },
+    {
+        "id": 6,
+        "productId":2,
+        "imgUrl": "https://cdn2.unrealengine.com/egs-hogwartslegacy-avalanchesoftware-g1a-04-1920x1080-52b6c523cebc.jpg",
+        "createdAt": "02/11/23",
+        "updatedAt": "02/11/23"
+    },
+    {
+        "id": 7,
+        "productId":3,
+        "imgUrl": "https://cdn2.unrealengine.com/acv-101-urbanstealth-emea-3840x2160-277668968.jpg",
+        "createdAt": "11/17/20",
+        "updatedAt": "11/17/20"
+    },
+    {
+        "id": 8,
+        "productId":3,
+        "imgUrl": "https://cdn2.unrealengine.com/acv-17-drinking-contest-3840x2160-277668884.jpg",
+        "createdAt": "11/17/20",
+        "updatedAt": "11/17/20"
+    },
+    {
+        "id": 9,
+        "productId":3,
+        "imgUrl": "https://cdn2.unrealengine.com/acv-86-stonehenge-3840x2160-277667549.jpg",
+        "createdAt": "11/17/20",
+        "updatedAt": "11/17/20"
+    },
+    {
+        "id": 10,
+        "productId":4,
+        "imgUrl": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-04-02-24-22-1920x1080-e44528f4fa16.jpg",
+        "createdAt": "12/10/20",
+        "updatedAt": "12/10/20"
+    },
+    {
+        "id": 11,
+        "productId":4,
+        "imgUrl": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-15-02-24-22-1920x1080-16b1ecf631c4.jpg",
+        "createdAt": "12/10/20",
+        "updatedAt": "12/10/20"
+    },
+    {
+        "id": 12,
+        "productId":4,
+        "imgUrl": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-14-02-24-22-1920x1080-810476afc100.jpg",
+        "createdAt": "12/10/20",
+        "updatedAt": "12/10/20"
+    },
+    {
+        "id": 13,
+        "productId":5,
+        "imgUrl": "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-10-1920x1080-b43097b1c6e6.jpg",
+        "createdAt": "01/14/22",
+        "updatedAt": "01/14/22"
+    },
+    {
+        "id": "14",
+        "productId":"5",
+        "imgUrl": "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-08-1920x1080-e31a2f4641bd.jpg",
+        "createdAt": "01/14/22",
+        "updatedAt": "01/14/22"
+    },
+    {
+        "id": "15",
+        "productId":"5",
+        "imgUrl": "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-02-1920x1080-f7c6fef5c876.jpg",
+        "createdAt": "01/14/22",
+        "updatedAt": "01/14/22"
+    }
+]
